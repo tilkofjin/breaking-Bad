@@ -3,11 +3,11 @@
 
 ---
 ## Usage
+```bash
+ yarn
 
- `yarn`
+ yarn start
 
- `yarn start`
-
- `yarn build`
-
+ yarn build
+```
 
